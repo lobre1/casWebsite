@@ -1,9 +1,10 @@
 :root {
-  --imageHeight: 80%;
+  --imageHeight: 70vh;
 }
 img.gallerySlide{
   position: absolute;
   height: var(--imageHeight);
+  width: auto;
   transition: left 0.02s;
   display: none;
 }
@@ -65,5 +66,6 @@ img.gallerySlide{
 }
 body{
   margin-top: -1;
+  overflow: hidden;
 }
 
