@@ -54,8 +54,10 @@ iframe.center{
 iframe.gallery{
   border: 0;
 }
+iframe.response{
+  height: 100%
+}
 p.caption{
-  margin-top: -1em;
-  margin-bottom: -1em;
+  margin-top: -0.5vh;
 }
 
