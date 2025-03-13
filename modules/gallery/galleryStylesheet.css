@@ -8,6 +8,11 @@ img.gallerySlide{
   transition: left 0.02s;
   display: none;
 }
+
+video.gallerySlide{
+
+}
+
 .gallery{
   display: flex;
   margin-top: 5vh;
