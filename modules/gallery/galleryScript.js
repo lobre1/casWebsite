@@ -1,5 +1,5 @@
 let slideIndex = 1;
-let secondInterval = 2;
+let secondInterval = 5;
 let interval;
 
 showSlides(slideIndex);
