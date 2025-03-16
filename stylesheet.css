@@ -8,6 +8,13 @@ body {
   margin: 5vw;
   overflow-x: hidden;
 }
+.gallerybody {
+  font-family: Arial, sans-serif;
+  color: darkgrey;
+  background-color:#202121;
+  margin: 5vw;
+  overflow-x: hidden;
+}
 div.listContainer {
   text-align: center;
 }
